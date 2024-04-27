@@ -1,1 +1,5 @@
 # IOT_SMART_DOOR_LOCK_SYSTEM
+For an iot project my team and i made smart door lock system. In this user gets access to a website. On giving the correct password the door of the house opens. Simultaneously there is a buzzer sound and the led light in house also switches on. After opening the door the user also gets gets option to lock the door. On clicking it the door gets locked and the led switches off. On giving wrong password the user gets a message that wrong password has been entered.
+
+We used raspberry pi pico w , servo motor , led and a buzzer in the implementation. We made a model of a house to build a prototype of the smart door lock system. We wrote the complete code on thorny 
+ Basically we imported libraries like network, socket, time , machine. We wrote the code so that on giving correct password the gate opens. And if the wrong pass is given it shows wrong pass. It also shows lock door option clicking on which closes the door . The buzzer rings when door gets opened and led is switched on 
